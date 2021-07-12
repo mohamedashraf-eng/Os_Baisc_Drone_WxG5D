@@ -1,0 +1,18 @@
+##############################
+# Syntax Coloring Map Wx6050
+##############################
+##############################
+# Datatypes (KEYWORD1)
+
+ Wx6050    KEYWORD1
+ BMP180    KEYWORD1
+ MOTORS    KEYWORD1
+##############################
+# Methods and Functions (KEYWORD2)
+
+ INIT     KEYWORD2
+ DATA     KEYWORD2
+ ACCURACY KEYWORD2
+##############################
+# Constants (LITERAL1)
+##############################
